@@ -1,4 +1,4 @@
-#  Hi 👋, I'm Romadani:
+#  Hi 👋, I'm Romadani
 🎓  Studied Computer Engineering at Universitas Bahaudin Mudhary Madura, Indonesia<br>📹 Making videos about Computer Engineering, tech and productivity on [tiktok]( https://www.tiktok.com/@dhanoke) and [Instagram](https://www.instagram.com/okew.ini/)<br>
 # 
 ![](https://github-readme-stats.vercel.app/api?username=okedane&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
