@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Romadani<br>👨‍💻 I'm a passionate developer with a keen interest in Flutter and mobile app development. I love exploring new technologies and continuously improving my skills.<br>🎓  Studied Computer Engineering at Universitas Bahaudin Mudhary Madura, Indonesia<br>📹 Making videos about Computer Engineering, tech and productivity on [tiktok]( https://www.tiktok.com/@dhanoke) and [Instagram](https://www.instagram.com/okew.ini/)<br>
-# 📊 GitHub Stats:
+# 
 ![](https://github-readme-stats.vercel.app/api?username=okedane&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 # 💻 Tech Stack:
