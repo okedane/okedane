@@ -1,4 +1,4 @@
-#  Hi 👋, I'm Romadani
+#  Hi 👋, I'm Dani
 🎓  Studied Computer Engineering at [Universitas Bahaudin Mudhary Madura](https://unibamadura.ac.id/page/), Indonesia<br>📹 Making videos about Computer Engineering, tech and productivity on [tiktok]( https://www.tiktok.com/@dhanoke) and [Instagram](https://www.instagram.com/okew.ini/)<br>
 
 
